@@ -1,3 +1,3 @@
-# ffxiv-speedrun
+# ffxiv-speedruns
 
 FFXIV speedrun
